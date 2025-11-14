@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ex-luciferr ~ Raj
+- 👋 Hi, I’m  ~ Raj
 - 👀 I’m interested in Web Developing and Game Development And Python
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python Projects
