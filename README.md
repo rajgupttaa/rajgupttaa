@@ -1,70 +1,83 @@
-<h1 align="center">Hey 👋 I'm Raj</h1>
-<h3 align="center">Web Developer • SaaS Builder • Python Learner</h3>
+<h1 align="center">Raj Gupta</h1>
+<h3 align="center">SaaS Developer • Web Architect • Product Builder</h3>
+
+<p align="center">
+Building scalable web products & automation systems.
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 👨‍💻 I build **Web Apps & SaaS Products**
-- 🌐 Interested in **Web Development, Game Development & Python**
-- 🧠 Currently learning **Python** & improving backend architecture skills
-- 🤝 Open to collaborating on **Python & SaaS projects**
-- 📫 Reach me at: **rajguptaindia01@gmail.com**
+- 👨‍💻 SaaS & Web Application Developer  
+- ⚙️ Focused on scalable backend systems & billing architectures  
+- 💳 Experienced with Stripe subscriptions & automation flows  
+- 📄 Building PDF, KYC & AML automation systems  
+- 🌱 Currently sharpening my Python & system design skills  
+- 🤝 Open to collaborating on Python & SaaS projects  
+- 📫 Reach me: **rajguptaindia01@gmail.com**
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Frontend
+### Frontend
 - HTML5
 - CSS3
 - JavaScript
 - React
 - Next.js
 
-### ⚙️ Backend
+### Backend
 - Node.js
 - PHP (Laravel)
-- Python (Learning)
+- REST APIs
+- Webhooks & Automation Systems
 
-### 🗄 Database
+### Database
 - MySQL
 - MongoDB
 
-### ☁️ Tools & Platforms
+### Payments & Integrations
+- Stripe Billing
+- Subscription Systems
+- Webhook Security
+- AML / KYC APIs
+
+### Dev Tools
 - Git & GitHub
-- Stripe
-- Firebase
 - Vercel
 - Hostinger
+- Postman
+- VS Code
 
 ---
 
-## 🧩 What I’m Building
+## 🧩 Current Focus
 
-- 🔥 SaaS tools
-- 📊 Business-focused Web Apps
-- 💳 Subscription & Billing Systems
-- 📄 PDF & Automation Tools
-- 🛡 KYC / AML Integrations
+- 🚀 Scaling SaaS products
+- 🔐 Secure webhook & payment architecture
+- 📊 Business-driven web applications
+- ⚡ Performance optimization
+- 🧠 Advanced backend logic
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajgupttaa&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajgupttaa&layout=compact&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=rajgupttaa&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🌍 Connect With Me
+## 🌍 Connect
 
 - 📧 Email: rajguptaindia01@gmail.com
-- 💼 Open to freelance & SaaS collaborations
+- 💼 Open to Freelance & SaaS Collaborations
 
 ---
 
-⭐ *Building. Learning. Scaling.*
+<p align="center">
+  <i>Build. Ship. Scale.</i>
+</p>
