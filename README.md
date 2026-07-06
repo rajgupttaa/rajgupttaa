@@ -1,239 +1,311 @@
 <div align="center">
 
-# Raj Gupta
+# 👋 Hi, I'm Raj Gupta
 
-### Founder • Full Stack Engineer • SaaS Architect
+### Founder • SaaS Architect • Full Stack Engineer
 
-Building scalable SaaS products, developer tools, AI-powered workflows and enterprise software.
+Building enterprise-grade SaaS products focused on **Compliance, AI, Automation & Developer Infrastructure**
 
-[Portfolio](https://yourwebsite.com) •
-[LinkedIn](https://linkedin.com/in/yourprofile) •
-Email: rajguptaindia01@gmail.com
+<p>
+
+<a href="mailto:rajguptaindia01@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=rajgupttaa&style=for-the-badge&color=0e75b6">
+
+<img src="https://img.shields.io/github/followers/rajgupttaa?style=for-the-badge">
+
+<img src="https://img.shields.io/github/stars/rajgupttaa?style=for-the-badge">
+
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Building+Enterprise+Software;SaaS+Founder;Go+%7C+Python+%7C+Laravel+%7C+Django+%7C+Next.js;AI+Automation+%7C+Compliance+Technology;Always+Building..." />
 
 </div>
 
 ---
 
-# About Me
+# 🚀 About
 
-I'm a full stack software engineer focused on building production-grade SaaS products.
+I'm a software engineer and SaaS founder focused on building products that solve real business problems.
 
-Over the last few years I've built platforms across:
+Instead of building websites, I build complete software businesses—from architecture and backend systems to billing, compliance, AI workflows and automation.
 
-- SaaS Applications
-- Compliance (AML / KYC / KYB)
-- AI-powered Business Tools
-- Product Onboarding
-- Form Builders
-- Customer Engagement
-- Billing & Subscription Systems
-- Workflow Automation
+Current interests include:
 
-I enjoy solving difficult backend problems, designing scalable architectures, and turning ideas into products used by businesses.
+- Enterprise SaaS
+- AML / KYC / KYB
+- AI Agents
+- Distributed Systems
+- Automation
+- FinTech
+- Developer Infrastructure
+- High Performance Backend Systems
 
 ---
 
-# Tech Stack
+# 🏗 Products
+
+| Product | Category | Description | Status |
+|----------|----------|-------------|--------|
+| 🛡 BearingTrust | Compliance | AML • KYB • Company Lookup • Audit Packs • Risk Assessment | 🚀 Active |
+| 📋 ZunoForm | Forms | Modern Form Infrastructure | 🚀 Active |
+| 🎯 Atrail | SaaS | Product Tours & User Onboarding | 🚀 Active |
+| 💬 ThreadHive | Customer Support | Live Chat • AI • Inbox | 🚀 Active |
+| 📣 EngagePop | Marketing | Popups • Notifications • Lead Generation | 🚀 Active |
+| 📧 Zinatara | Sales | Cold Email & Outreach Platform | 🚀 Active |
+
+---
+
+# ⚡ Technology Stack
 
 ## Languages
 
-- Go
-- Python
-- JavaScript
-- TypeScript
-- PHP
+<p>
+
+<img src="https://skillicons.dev/icons?i=go,python,php,js,ts"/>
+
+</p>
 
 ## Frontend
 
-- React
-- Next.js
-- HTML5
-- CSS3
-- Tailwind CSS
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind"/>
+
+</p>
 
 ## Backend
 
-- Go
-- Django
-- Laravel
-- Node.js
-- Express
-- REST APIs
-- WebSockets
+<p>
 
-## Databases
-
-- PostgreSQL
-- MySQL
-- MongoDB
-- Redis
-- SQLite
-
-## Cloud & DevOps
-
-- Docker
-- Docker Compose
-- Nginx
-- Linux
-- GitHub Actions
-- Vercel
-- VPS Deployment
-
-## Payments
-
-- Stripe
-- Subscription Billing
-- Webhooks
-- Paddle
-
-## AI
-
-- Claude API
-- OpenAI API
-- AI Agents
-- Prompt Engineering
-
-## Security & Compliance
-
-- AML
-- KYC
-- KYB
-- OAuth
-- JWT
-- RBAC
-
----
-
-# Current Products
-
-## BearingTrust
-
-Compliance platform for:
-
-- AML Screening
-- Company Lookup
-- Risk Assessments
-- Audit Packs
-- SAR Management
-- Document Vault
-- Ongoing Monitoring
-
----
-
-## ZunoForm
-
-Modern form builder for businesses.
-
-- Form Builder
-- Logic
-- File Uploads
-- Integrations
-- Analytics
-
----
-
-## Atrail
-
-Interactive product tours.
-
-- Product Onboarding
-- Checklists
-- User Guidance
-- Feature Announcements
-
----
-
-## ThreadHive
-
-Customer communication platform.
-
-- Live Chat
-- AI Support
-- Inbox
-- Automation
-- Knowledge Base
-
----
-
-## EngagePop
-
-Website engagement toolkit.
-
-- Popups
-- Notifications
-- Lead Capture
-- Conversion Tools
-
----
-
-## Zinatara
-
-Cold outreach platform.
-
-- Email Campaigns
-- Lead Management
-- Tracking
-- Automation
-
----
-
-# What I'm Working On
-
-- Distributed systems
-- Go microservices
-- AI-assisted compliance workflows
-- Scalable backend architectures
-- High-performance SaaS infrastructure
-
----
-
-# GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rajgupttaa&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajgupttaa&layout=compact&theme=github_dark&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=go,django,laravel,nodejs,express"/>
 
 </p>
 
-<p align="center">
+## Database
 
-<img src="https://streak-stats.demolab.com?user=rajgupttaa&theme=github-dark&hide_border=true"/>
+<p>
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite"/>
+
+</p>
+
+## DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,githubactions,git"/>
+
+</p>
+
+## Cloud & Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=vercel,vscode,postman"/>
 
 </p>
 
 ---
 
-# Interests
+# 🧠 Expertise
 
-- SaaS
-- AI
+| Backend | Architecture | AI | Security |
+|----------|-------------|----|----------|
+| REST APIs | Microservices | Claude API | JWT |
+| Webhooks | SaaS Architecture | OpenAI | OAuth |
+| Billing Systems | Distributed Systems | AI Automation | RBAC |
+| Queue Systems | Event Driven Systems | Prompt Engineering | AML / KYC |
+
+---
+
+# 📊 What I'm Building
+
+```text
+🛡 BearingTrust        ████████████████████ 95%
+
+📋 ZunoForm           ██████████████████░ 90%
+
+🎯 Atrail             ████████████████░░░ 80%
+
+💬 ThreadHive         ███████████████░░░░ 75%
+
+📣 EngagePop          ███████████████░░░░ 75%
+
+📧 Zinatara           █████████████░░░░░░ 70%
+```
+
+---
+
+# 🏛 Current Focus
+
+- Enterprise Compliance Software
+- AI Powered Automation
+- High Performance Go Services
+- Docker Infrastructure
 - Distributed Systems
-- FinTech
-- Compliance Tech
-- Developer Tools
-- Automation
-- System Design
+- Backend Performance
+- SaaS Scaling
+- Product Growth
 
 ---
 
-# Contact
+# 🏗 Architecture I Love
 
-📧 rajguptaindia01@gmail.com
+```text
 
-Always open to discussing:
+                 Users
 
-- SaaS
-- Startups
-- AI
-- System Architecture
-- Open Source
+                   │
+
+         Next.js / React
+
+                   │
+
+        API Gateway / Nginx
+
+                   │
+
+──────────────────────────────────
+
+Go Services
+
+Laravel
+
+Django
+
+Node.js
+
+──────────────────────────────────
+
+Redis
+
+PostgreSQL
+
+MongoDB
+
+──────────────────────────────────
+
+Docker
+
+Linux
+
+CI/CD
+
+──────────────────────────────────
+
+Stripe
+
+Claude
+
+OpenAI
+
+Webhooks
+
+```
+
+---
+
+# 💼 Current Tech
+
+| Category | Technologies |
+|----------|--------------|
+| Languages | Go • Python • PHP • JavaScript • TypeScript |
+| Backend | Go • Django • Laravel • Express |
+| Frontend | React • Next.js • Tailwind |
+| DevOps | Docker • Linux • Nginx |
+| Database | PostgreSQL • MySQL • MongoDB • Redis |
+| AI | Claude • OpenAI |
+| Payments | Stripe |
+| Security | OAuth • JWT • AML • KYC |
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rajgupttaa&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajgupttaa&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=rajgupttaa&theme=github-dark&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img width="98%" src="https://streak-stats.demolab.com?user=rajgupttaa&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rajgupttaa&theme=algolia&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 📌 Philosophy
+
+```text
+Build products.
+
+Not projects.
+
+Solve difficult engineering problems.
+
+Ship.
+
+Iterate.
+
+Scale.
+```
+
+---
+
+# 🎯 2026 Goals
+
+- Build a global Compliance SaaS
+- Scale multiple SaaS products
+- Build AI-first enterprise software
+- Master distributed systems
+- Contribute more to open source
+- Build software used by millions
+
+---
+
+# 🌍 Connect
+
+<div align="center">
+
+<a href="mailto:rajguptaindia01@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://github.com/rajgupttaa">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### Build products that people love.
+## ⚡ Building software that businesses depend on.
+
+*"Code is temporary. Systems last."*
 
 </div>
