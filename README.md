@@ -1,253 +1,142 @@
+
 <div align="center">
 
-# 👋 Hi, I'm Raj Gupta
+# Raj Gupta
 
-### Founder • SaaS Architect • Full Stack Engineer
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Founder+%E2%80%A2+SaaS+Architect;Building+Enterprise+Software;Go+%7C+Python+%7C+Laravel+%7C+Django;AI+%E2%80%A2+Compliance+%E2%80%A2+Automation" />
 
-Building enterprise-grade SaaS products focused on **Compliance, AI, Automation & Developer Infrastructure**
+### Building software businesses, not just software.
 
 <p>
-
-<a href="mailto:rajguptaindia01@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=rajgupttaa&style=for-the-badge&color=0e75b6">
-
-<img src="https://img.shields.io/github/followers/rajgupttaa?style=for-the-badge">
-
-<img src="https://img.shields.io/github/stars/rajgupttaa?style=for-the-badge">
-
+<img src="https://komarev.com/ghpvc/?username=rajgupttaa&style=for-the-badge&color=0e75b6"/>
+<img src="https://img.shields.io/github/followers/rajgupttaa?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20to-Collaboration-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Based-India-blue?style=for-the-badge"/>
 </p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Building+Enterprise+Software;SaaS+Founder;Go+%7C+Python+%7C+Laravel+%7C+Django+%7C+Next.js;AI+Automation+%7C+Compliance+Technology;Always+Building..." />
 
 </div>
 
 ---
 
-# 🚀 About
+# ⚡ Products
 
-I'm a software engineer and SaaS founder focused on building products that solve real business problems.
+<div align="center">
 
-Instead of building websites, I build complete software businesses—from architecture and backend systems to billing, compliance, AI workflows and automation.
+| Product | Description | Status |
+|:--|:--|:--:|
+| 🛡 **BearingTrust** | AML • KYB • Company Lookup • Audit Packs • Monitoring | 🚀 |
+| 📋 **ZunoForm** | Modern Form Builder | 🚀 |
+| 🎯 **Atrail** | Product Tours | 🚀 |
+| 💬 **ThreadHive** | AI Customer Support | 🚀 |
+| 📣 **EngagePop** | Popups & Notifications | 🚀 |
+| 📧 **Zinatara** | Cold Outreach Platform | 🚀 |
 
-Current interests include:
-
-- Enterprise SaaS
-- AML / KYC / KYB
-- AI Agents
-- Distributed Systems
-- Automation
-- FinTech
-- Developer Infrastructure
-- High Performance Backend Systems
+</div>
 
 ---
 
-# 🏗 Products
+# 💻 Technology
 
-| Product | Category | Description | Status |
-|----------|----------|-------------|--------|
-| 🛡 BearingTrust | Compliance | AML • KYB • Company Lookup • Audit Packs • Risk Assessment | 🚀 Active |
-| 📋 ZunoForm | Forms | Modern Form Infrastructure | 🚀 Active |
-| 🎯 Atrail | SaaS | Product Tours & User Onboarding | 🚀 Active |
-| 💬 ThreadHive | Customer Support | Live Chat • AI • Inbox | 🚀 Active |
-| 📣 EngagePop | Marketing | Popups • Notifications • Lead Generation | 🚀 Active |
-| 📧 Zinatara | Sales | Cold Email & Outreach Platform | 🚀 Active |
+<div align="center">
 
----
-
-# ⚡ Technology Stack
-
-## Languages
-
-<p>
+### Languages
 
 <img src="https://skillicons.dev/icons?i=go,python,php,js,ts"/>
 
-</p>
+### Frontend
 
-## Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/>
 
-<p>
+### Backend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind"/>
+<img src="https://skillicons.dev/icons?i=go,django,laravel,nodejs"/>
 
-</p>
-
-## Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=go,django,laravel,nodejs,express"/>
-
-</p>
-
-## Database
-
-<p>
+### Database
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite"/>
 
-</p>
+### DevOps
 
-## DevOps
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,git,githubactions"/>
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,githubactions,git"/>
-
-</p>
-
-## Cloud & Tools
-
-<p>
+### Cloud & AI
 
 <img src="https://skillicons.dev/icons?i=vercel,vscode,postman"/>
 
-</p>
+Claude • OpenAI • Stripe • REST APIs • Webhooks
+
+</div>
 
 ---
 
-# 🧠 Expertise
+# 📊 Engineering Focus
 
-| Backend | Architecture | AI | Security |
-|----------|-------------|----|----------|
-| REST APIs | Microservices | Claude API | JWT |
-| Webhooks | SaaS Architecture | OpenAI | OAuth |
-| Billing Systems | Distributed Systems | AI Automation | RBAC |
-| Queue Systems | Event Driven Systems | Prompt Engineering | AML / KYC |
+| Backend | AI | Security | DevOps |
+|---------|----|----------|---------|
+| Go APIs | Claude | JWT | Docker |
+| Django | OpenAI | OAuth | Linux |
+| Laravel | AI Agents | AML/KYC | Nginx |
+| Node.js | Automation | Webhooks | CI/CD |
 
 ---
 
-# 📊 What I'm Building
+# 🧠 Current Focus
 
 ```text
-🛡 BearingTrust        ████████████████████ 95%
-
-📋 ZunoForm           ██████████████████░ 90%
-
-🎯 Atrail             ████████████████░░░ 80%
-
-💬 ThreadHive         ███████████████░░░░ 75%
-
-📣 EngagePop          ███████████████░░░░ 75%
-
-📧 Zinatara           █████████████░░░░░░ 70%
+████████████████████  BearingTrust
+██████████████████░░  ZunoForm
+████████████████░░░░  Atrail
+███████████████░░░░░  ThreadHive
+██████████████░░░░░░  EngagePop
+█████████████░░░░░░░  Zinatara
 ```
 
 ---
 
-# 🏛 Current Focus
-
-- Enterprise Compliance Software
-- AI Powered Automation
-- High Performance Go Services
-- Docker Infrastructure
-- Distributed Systems
-- Backend Performance
-- SaaS Scaling
-- Product Growth
-
----
-
-# 🏗 Architecture I Love
+# 🏗 Preferred Architecture
 
 ```text
-
                  Users
-
-                   │
-
-         Next.js / React
-
-                   │
-
-        API Gateway / Nginx
-
-                   │
-
-──────────────────────────────────
-
-Go Services
-
-Laravel
-
-Django
-
-Node.js
-
-──────────────────────────────────
-
-Redis
-
-PostgreSQL
-
-MongoDB
-
-──────────────────────────────────
-
-Docker
-
-Linux
-
-CI/CD
-
-──────────────────────────────────
-
-Stripe
-
-Claude
-
-OpenAI
-
-Webhooks
-
+                    │
+             Next.js / React
+                    │
+             API Gateway / Nginx
+                    │
+      Go • Django • Laravel • Node
+                    │
+ Redis • PostgreSQL • MongoDB • MySQL
+                    │
+ Docker • Linux • CI/CD
+                    │
+ Claude • OpenAI • Stripe
 ```
 
 ---
 
-# 💼 Current Tech
-
-| Category | Technologies |
-|----------|--------------|
-| Languages | Go • Python • PHP • JavaScript • TypeScript |
-| Backend | Go • Django • Laravel • Express |
-| Frontend | React • Next.js • Tailwind |
-| DevOps | Docker • Linux • Nginx |
-| Database | PostgreSQL • MySQL • MongoDB • Redis |
-| AI | Claude • OpenAI |
-| Payments | Stripe |
-| Security | OAuth • JWT • AML • KYC |
-
----
-
-# 📈 GitHub Analytics
+# 📈 GitHub Activity
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rajgupttaa&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajgupttaa&theme=github_dark"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajgupttaa&layout=compact&theme=github_dark&hide_border=true"/>
+<br><br>
 
-</div>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajgupttaa&theme=github_dark"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajgupttaa&theme=github_dark"/>
 
-<div align="center">
+<br><br>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=rajgupttaa&theme=github-dark&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rajgupttaa&theme=github-dark&hide_border=true"/>
 
-</div>
+<br><br>
 
-<div align="center">
-
-<img width="98%" src="https://streak-stats.demolab.com?user=rajgupttaa&theme=github-dark&hide_border=true"/>
+<img width="100%" src="https://streak-stats.demolab.com?user=rajgupttaa&theme=github-dark&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 Achievements
 
 <div align="center">
 
@@ -257,45 +146,36 @@ Webhooks
 
 ---
 
-# 📌 Philosophy
+# 🐍 Contribution Snake
 
-```text
-Build products.
+> Enable GitHub Actions and create `.github/workflows/snake.yml` using Platane/snk to render your contribution snake.
 
-Not projects.
-
-Solve difficult engineering problems.
-
-Ship.
-
-Iterate.
-
-Scale.
+```md
+![Snake animation](https://raw.githubusercontent.com/rajgupttaa/rajgupttaa/output/github-contribution-grid-snake-dark.svg)
 ```
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 Goals
 
-- Build a global Compliance SaaS
-- Scale multiple SaaS products
-- Build AI-first enterprise software
+- Build world-class B2B SaaS
+- Scale BearingTrust globally
 - Master distributed systems
-- Contribute more to open source
-- Build software used by millions
+- Build AI-first enterprise software
+- Open source more tools
 
 ---
 
-# 🌍 Connect
+# 📬 Connect
 
 <div align="center">
 
 <a href="mailto:rajguptaindia01@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/rajgupttaa">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -304,8 +184,6 @@ Scale.
 
 <div align="center">
 
-## ⚡ Building software that businesses depend on.
-
-*"Code is temporary. Systems last."*
+## "Build products people depend on."
 
 </div>
