@@ -1,233 +1,94 @@
-<div align="center">
+<h1 align="center">Raj Gupta</h1>
 
-# Raj Gupta
+<p align="center">
+  <b>Founder · Software Architect</b><br>
+  I design, build and ship B2B SaaS products end to end.
+</p>
 
-### Founder · SaaS Builder · Software Architect
-
-**I build and ship software businesses — from idea to production.**
-
-Go · Python · TypeScript · Django · Laravel · React · PostgreSQL
-
-<br>
-
-<a href="https://github.com/rajgupttaa">
-  <img src="https://img.shields.io/github/followers/rajgupttaa?label=Followers&style=flat-square&logo=github" />
-</a>
-<a href="https://github.com/rajgupttaa?tab=repositories">
-  <img src="https://img.shields.io/badge/Projects-View%20all-181717?style=flat-square&logo=github" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=rajgupttaa&style=flat-square&label=Profile%20views" />
-
-</div>
+<p align="center">
+  <a href="https://github.com/rajgupttaa?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-181717?style=flat-square&logo=github&logoColor=white" alt="Repositories">
+  </a>
+  <a href="mailto:rajguptaindia01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 ---
 
-## ⚡ What I Build
+I build software businesses, not just software. My work sits across the whole
+lifecycle — product design, architecture, implementation, infrastructure and
+growth — with a focus on **B2B SaaS, compliance automation, AI-powered tooling
+and developer products**.
 
-I'm a software founder focused on **B2B SaaS, automation, AI-powered products, and developer tools**.
+Currently running several products in parallel, most of them multi-tenant,
+subscription-based and API-first.
 
-I enjoy working across the entire product lifecycle:
+---
 
-```text
-Idea
- ↓
-Product Design
- ↓
-Architecture
- ↓
-Development
- ↓
-Infrastructure
- ↓
-Launch
- ↓
-Growth
+## Products
+
+| Product | What it does | Status |
+| --- | --- | --- |
+| **BearingTrust** | AML, KYB, company intelligence and ongoing compliance monitoring | Live |
+| **ZunoForm** | Modern form builder and data collection platform | Live |
+| **Atrail** | Interactive product tours and user onboarding | Live |
+| **ThreadHive** | AI-powered customer support and sales agent platform | Live |
+| **EngagePop** | Popups, web push and customer engagement | Live |
+| **Zintara** | Cold outreach and email automation infrastructure | Beta |
+
+---
+
+## Stack
+
+**Languages** — Go · Python · TypeScript · PHP · JavaScript
+
+**Backend** — Django · Laravel · Node.js · Flask
+
+**Frontend** — React · Next.js · Tailwind CSS
+
+**Data** — PostgreSQL · MySQL · MongoDB · Redis · SQLite
+
+**Infrastructure** — Docker · Linux · Nginx · GitHub Actions · CI/CD
+
+**Platforms & APIs** — Stripe · OpenAI · Claude · REST · Webhooks · OAuth · JWT
+
+---
+
+## How I build
+
+```mermaid
+flowchart TD
+    U[Users] --> C[Web / Mobile<br/>React · Next.js]
+    C --> A[API Layer<br/>Go · Django · Laravel · Node]
+    A --> D[(PostgreSQL)]
+    A --> R[(Redis)]
+    A --> M[(MongoDB)]
+    A --> I[Integrations<br/>Stripe · OpenAI · Webhooks]
+    A --> O[Infrastructure<br/>Docker · Nginx · CI/CD]
 ```
 
-My focus isn't just writing code.
-
-**It's turning software into products people actually use.**
-
----
-
-## 🚀 Products
-
-| Product              | What it does                                               |     |
-| -------------------- | ---------------------------------------------------------- | :-: |
-| 🛡️ **BearingTrust** | AML · KYB · Company Intelligence · Monitoring · Compliance |  🚀 |
-| 📋 **ZunoForm**      | Modern form builder and data collection platform           |  🚀 |
-| 🎯 **Atrail**        | Product tours and user onboarding                          |  🚀 |
-| 💬 **ThreadHive**    | AI-powered customer support platform                       |  🚀 |
-| 📣 **EngagePop**     | Popups, notifications and customer engagement              |  🚀 |
-| 📧 **Zintara**       | Outreach and automation platform                           |  🧪 |
-
-> Building multiple products in parallel while continuously experimenting with new ideas.
+Multi-tenant by default, background jobs over cron where it matters, webhooks
+verified and idempotent, and infrastructure that can be rebuilt from a repo.
 
 ---
 
-## 🧠 Engineering
+## Focus areas
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=go,python,typescript,php,javascript" />
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=go,django,laravel,nodejs,flask" />
-
-### Data
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite" />
-
-### Infrastructure
-
-<img src="https://skillicons.dev/icons?i=docker,linux,nginx,githubactions,git" />
-
-### Platforms & APIs
-
-**OpenAI · Claude · Stripe · REST APIs · Webhooks · OAuth · JWT**
+| Area | What I'm working on |
+| --- | --- |
+| **AI** | Agents, automation and intelligent workflows inside real products |
+| **SaaS** | Multi-tenant architecture, billing, subscriptions, usage metering |
+| **Compliance** | AML, KYB, sanctions screening and continuous monitoring |
+| **Infrastructure** | APIs, containers, deployment pipelines, self-hosted systems |
+| **Growth** | SEO-led acquisition and product-led growth |
 
 ---
 
-## 🏗️ How I Think About Architecture
+## Contact
 
-```text
-                    ┌─────────────────┐
-                    │      USERS      │
-                    └────────┬────────┘
-                             │
-                             ▼
-                 ┌─────────────────────┐
-                 │  Web / Mobile Apps  │
-                 │ React · Next.js     │
-                 └──────────┬──────────┘
-                            │
-                            ▼
-                 ┌─────────────────────┐
-                 │    API / Services   │
-                 │ Go · Django · Node  │
-                 │ Laravel · Flask     │
-                 └──────────┬──────────┘
-                            │
-              ┌─────────────┼─────────────┐
-              ▼             ▼             ▼
-        PostgreSQL        Redis        MongoDB
-              │             │             │
-              └─────────────┼─────────────┘
-                            ▼
-                 ┌─────────────────────┐
-                 │   Infrastructure    │
-                 │ Docker · Linux      │
-                 │ Nginx · CI/CD       │
-                 └──────────┬──────────┘
-                            │
-                            ▼
-                 ┌─────────────────────┐
-                 │ AI / Integrations   │
-                 │ OpenAI · Claude     │
-                 │ Stripe · Webhooks   │
-                 └─────────────────────┘
-```
+Open to conversations about compliance tooling, SaaS architecture and
+interesting product problems.
 
----
-
-## 🔬 Current Areas of Focus
-
-| Area                  | Focus                                                   |
-| --------------------- | ------------------------------------------------------- |
-| 🤖 **AI**             | AI agents, automation, intelligent workflows            |
-| 🏢 **SaaS**           | B2B software, subscriptions, multi-tenant systems       |
-| 🔐 **Compliance**     | AML, KYB, company intelligence and monitoring           |
-| ⚙️ **Infrastructure** | APIs, distributed systems, containers and CI/CD         |
-| 📈 **Growth**         | SEO-driven products, acquisition and product-led growth |
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rajgupttaa&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajgupttaa&layout=compact&hide_border=true&theme=transparent&langs_count=8" height="170"/>
-
-</div>
-
-<br>
-
-### Contribution Activity
-
-<div align="center">
-
-<img src="https://github.com/rajgupttaa/rajgupttaa/blob/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake"/>
-
-</div>
-
-> The contribution graph above is generated through GitHub Actions rather than a third-party graph API.
-
----
-
-## 🏆 GitHub
-
-<div align="center">
-
-<a href="https://github.com/rajgupttaa?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-Explore-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://github.com/rajgupttaa?tab=stars">
-  <img src="https://img.shields.io/badge/Stars-Explore-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
-
----
-
-## 🎯 What I'm Building Toward
-
-```text
-Build products people depend on.
-        ↓
-Solve expensive problems.
-        ↓
-Automate everything worth automating.
-        ↓
-Build globally.
-```
-
-### Long-term
-
-* Build world-class B2B SaaS products
-* Build AI-first enterprise software
-* Scale products globally
-* Explore distributed systems and infrastructure
-* Open-source useful developer tools
-* Turn more ideas into real businesses
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="mailto:rajguptaindia01@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/rajgupttaa">
-<img src="https://img.shields.io/badge/GitHub-rajgupttaa-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### Build. Ship. Learn. Repeat.
-
-</div>
+**Email** — [rajguptaindia01@gmail.com](mailto:rajguptaindia01@gmail.com)
+**GitHub** — [@rajgupttaa](https://github.com/rajgupttaa)
